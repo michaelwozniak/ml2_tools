@@ -209,7 +209,8 @@ We will follow Kedro's brilliant documentation and tutorials:
 2. Set up Kedro: https://docs.kedro.org/en/stable/get_started/install.html
 3. Create new Kedro project: https://docs.kedro.org/en/stable/get_started/new_project.html
 4. Tutorial: https://docs.kedro.org/en/stable/tutorial/spaceflights_tutorial.html
-5. Kedro viz:
+5. Kedro with Jupyter Notebooks: https://docs.kedro.org/en/stable/notebooks_and_ipython/kedro_and_notebooks.html
+6. Kedro viz:
     5.1 introduction: https://docs.kedro.org/projects/kedro-viz/en/stable/kedro-viz_visualisation.html
     5.2 charts visualization: https://docs.kedro.org/projects/kedro-viz/en/stable/visualise_charts_with_plotly.html
     5.3 experiments tracking: https://docs.kedro.org/projects/kedro-viz/en/stable/experiment_tracking.html 
