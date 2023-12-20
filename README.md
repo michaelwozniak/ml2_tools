@@ -202,6 +202,8 @@ Here you can find decent git tutorial which will cover all necessary commands an
 ## Project setup in Kedro framework <a name="kedro"></a>
 Kedro is an open-source Python framework to create reproducible, maintainable, and modular data science code. It uses software engineering best practices to help you build production-ready data science pipelines.
 
+Demo: https://demo.kedro.org/
+
 Official project documentation: https://docs.kedro.org/en/stable/index.html
 
 We will follow Kedro's brilliant documentation and tutorials:
