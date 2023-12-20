@@ -105,11 +105,12 @@ git config --global user.email "your.email@example.com"
 
 #### Step 3: Create a GitHub Repository
 
-1. Log in to your GitHub account.
-2. Click on the "+" sign in the top right corner and select "New repository."
-3. Name your repository and provide a description.
-4. Optionally, initialize this repository with a README file.
-5. Click "Create repository."
+1. Create and log in to your GitHub account.
+2. Set up GitHub token - https://github.com/settings/tokens.
+3. Click on the "+" sign in the top right corner and select "New repository."
+4. Name your repository and provide a description.
+5. Optionally, initialize this repository with a README file.
+6. Click "Create repository."
 
 #### Step 4: Clone the Repository
 
@@ -195,3 +196,6 @@ git merge feature-branch
 If there are conflicts during a merge, resolve them manually, then commit the changes.
 
 Congratulations! You've covered the basics of Git and GitHub. These commands will help you manage and collaborate on projects effectively.
+Here you can find decent git tutorial which will cover all necessary commands and concepts: https://www.atlassian.com/git/tutorials.
+
+
