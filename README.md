@@ -2,7 +2,8 @@
 
 # Table of contents
 1. [Creation of virtual environments](#venv)
-2. [Basic usage git and GitHub](#git)
+2. [Basic usage of git and GitHub](#git)
+3. [Project setup in Kedro framework](#kedro)
 
 ## Creation of virtual environments <a name="venv"></a>
 ### Creating a Python Virtual Environment in a Specific Location
@@ -86,7 +87,7 @@ This returns you to the global Python environment.
 Congratulations! You have successfully created and activated a Python virtual environment in a specific location.
 
 --------------------------------------------------------
-## Basic usage git and GitHub <a name="git"></a>
+## Basic usage of git and GitHub <a name="git"></a>
 
 In this tutorial, we will cover the fundamental concepts of version control using Git and how to collaborate with GitHub. These skills are essential for managing and tracking changes in your projects.
 
@@ -197,5 +198,23 @@ If there are conflicts during a merge, resolve them manually, then commit the ch
 
 Congratulations! You've covered the basics of Git and GitHub. These commands will help you manage and collaborate on projects effectively.
 Here you can find decent git tutorial which will cover all necessary commands and concepts: https://www.atlassian.com/git/tutorials.
+
+## Project setup in Kedro framework <a name="kedro"></a>
+Kedro is an open-source Python framework to create reproducible, maintainable, and modular data science code. It uses software engineering best practices to help you build production-ready data science pipelines.
+
+Official project documentation: https://docs.kedro.org/en/stable/index.html
+
+We will follow Kedro's brilliant documentation and tutorials:
+1. Kedro concepts: https://docs.kedro.org/en/stable/get_started/kedro_concepts.html
+2. Set up Kedro: https://docs.kedro.org/en/stable/get_started/install.html
+3. Create new Kedro project: https://docs.kedro.org/en/stable/get_started/new_project.html
+4. Tutorial: https://docs.kedro.org/en/stable/tutorial/spaceflights_tutorial.html
+5. Kedro viz:
+    5.1 introduction: https://docs.kedro.org/projects/kedro-viz/en/stable/kedro-viz_visualisation.html
+    5.2 charts visualization: https://docs.kedro.org/projects/kedro-viz/en/stable/visualise_charts_with_plotly.html
+    5.3 experiments tracking: https://docs.kedro.org/projects/kedro-viz/en/stable/experiment_tracking.html 
+8. More details: https://docs.kedro.org/en/stable/starters/index.html and https://docs.kedro.org/en/stable/kedro_project_setup/index.html
+9. More advanced stuff - kedro-mlflow: https://kedro-mlflow.readthedocs.io/en/stable/source/03_getting_started/01_example_project.html
+
 
 
