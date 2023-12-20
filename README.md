@@ -199,8 +199,10 @@ If there are conflicts during a merge, resolve them manually, then commit the ch
 Congratulations! You've covered the basics of Git and GitHub. These commands will help you manage and collaborate on projects effectively.
 Here you can find decent git tutorial which will cover all necessary commands and concepts: https://www.atlassian.com/git/tutorials.
 
---------------------------------------------------------
 
+
+
+--------------------------------------------------------
 ## Project setup in Kedro framework <a name="kedro"></a>
 Kedro is an open-source Python framework to create reproducible, maintainable, and modular data science code. It uses software engineering best practices to help you build production-ready data science pipelines.
 
